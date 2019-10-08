@@ -1,0 +1,26 @@
+A	4 or /\ or /-\ or @
+B	8 or |3 or |o
+C	( or < or K or S
+D	|) or o| or |> or <|
+E	3
+F	|= or ph
+G	9 or ( or 6
+H	|-| or ]-[ or }-{ or (-) or )-( or #
+I	1 or l or | or ! or ][
+J	_|
+K	|< or /< or \< or |{
+L	1 or | or |_
+M	|\/| or /\/\ or |'|'| or (\/) or /\\ or /|\ or /v\
+N	|\| or /\/ or |\\| or /|/
+O	0 or () or [] or {}
+P	|2 or |D
+Q	(,) or kw
+R	|2 or |Z or |?
+S	5 or $
+T	7 or '][' or +
+U	|_|
+V	|/ or \| or \/ or /
+W	\/\/ or \|\| or |/|/ or \|/ or \^/ or //
+X	>< or }{
+Y	`/ or '/ or j
+Z	2 or (\)
